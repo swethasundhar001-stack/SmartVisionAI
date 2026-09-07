@@ -4,6 +4,11 @@ import tempfile
 import cv2
 import os
 
+import sys
+from pathlib import Path
+
+sys.path.append(str(Path(__file__).resolve().parent.parent))
+
 from src.detection.model import load_model
 from src.detection.inference import run_detection
 from src.preprocessing.video import read_video
