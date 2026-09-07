@@ -39,6 +39,12 @@ The system can analyze images and video frames and detect safety-related objects
 
 ---
 
+## 🚀 Deployment
+
+The SmartVision AI application is deployed using Streamlit Community Cloud.
+
+🔗 **Live Demo:** https://smartvisionai-jqkkwqh4v9fa7lqzbsyoaa.streamlit.app/
+
 ## 🏗️ Project Architecture
 
 ```text
