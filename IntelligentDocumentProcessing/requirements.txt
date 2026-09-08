@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+opencv-python-headless
+Pillow
+pytesseract
+pdf2image
+spacy
+transformers
+torch
+fastapi
+uvicorn
+python-multipart
